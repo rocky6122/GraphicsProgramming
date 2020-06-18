@@ -1,0 +1,14 @@
+﻿  a3_DemoState_idle-input.c
+  a3_DemoState_idle-render.c
+  a3_DemoState_idle-update.c
+  a3_DemoState_initialize.c
+  a3_DemoState_loading.c
+  a3_DemoState_unloading.c
+  a3_demo_callbacks.c
+  a3_RenderPipeline.c
+  a3_DemoSceneObject.c
+  main_dll.c
+  Generating Code...
+     Creating library C:\Users\John\Desktop\Graphics\animal3D-SDK\animal3D-SDK\lib\x64\v141\Debug\animal3D-DemoProject.lib and object C:\Users\John\Desktop\Graphics\animal3D-SDK\animal3D-SDK\lib\x64\v141\Debug\animal3D-DemoProject.exp
+  animal3D-DemoProject.vcxproj -> C:\Users\John\Desktop\Graphics\animal3D-SDK\animal3D-SDK\lib\x64\v141\Debug\animal3D-DemoProject.dll
+  A3: DEFERRED COPY BUILD...
